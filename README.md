@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @malaikavilho
-- 👀 I’m interested in data science , machine learning,python and data visualization using Tableau
-- 🌱 I’m currently learning everything I just mentioned in my interests
+- 👀 I’m interested in data science , machine learning ,artificial intellligence,python and data visualization using Tableau
+- 🌱 I’m currently learning everything I just mentioned in my interests :)
 - 💞️ I’m looking to collaborate on machine learning and artificial intelligence projects
 - 📫 How to reach me via Linkedln at Malaika Vilho( insert link here)
-- 😄 
 - ⚡ Fun fact: I was inspired to study Data Science from a netflix documentary
 
 <!---
